@@ -1,5 +1,5 @@
 > [!NOTE]
-> This is ther version 2 of this project.
+> This is the version 2 of this project.
 
 # Excuses to tell to your Teacher (Funny)!
 
