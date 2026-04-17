@@ -3,6 +3,8 @@
 
 # Excuses to tell to your Teacher (Funny)!
 
+![image alt][https://github.com/BrundevCoder/excuse-teacher-generator/blob/main/Captura%20de%20ecr%C3%A3%202026-04-18%20005619.png?raw=true]
+
 ## why i created it? 🛠️
 Well, i creat it because i really want to make a funny website and event make someone laught!
 
