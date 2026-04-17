@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is ther version 2 of this project.
+
 # Excuses to tell to your Teacher (Funny)!
 
 ## why i created it? 🛠️
