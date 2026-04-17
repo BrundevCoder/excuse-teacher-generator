@@ -15,7 +15,7 @@ AI Collaboration: I used Gemini to make some jokes but i created mines to! eheh
 
 ## What I did in the new version (v2):
 - Added more excuses
-- Completely changed the UI
+- Completely changed the UI with the backgroundColor of `#236912` and the border `#8d3800`
 - Fixed 1 typo
 - Added a system that prevents showing a repeated excuse
 - Added random colors for questions in the History
