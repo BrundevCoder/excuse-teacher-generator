@@ -1,4 +1,4 @@
-# Excuses to tell to your Teacter (Funny)!
+# Excuses to tell to your Teacher (Funny)!
 
 ## why i created it? 🛠️
 Well, i creat it because i really want to make a funny website and event make someone laught!
