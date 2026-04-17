@@ -25,7 +25,7 @@ AI Collaboration: I used Gemini to make some jokes but i created mines to! eheh
 - Why do some excuses appear in red or blue?
   > Because I tried to give it a school-like aesthetic, like the blue 🟦 and red 🟥 pens.
 
-- Is it possible to disable browsing history?
+- Is it possible to disable history?
   > No, it's enabled by default, and it doesn't save when you leave the site, but I can add that functionality if anyone wants it.
 
 - Why does the game take almost a second to choose a joke?
